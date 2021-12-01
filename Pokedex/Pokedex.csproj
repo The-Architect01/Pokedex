@@ -12,6 +12,7 @@
 	<Copyright>© 2021 Grumpy Lion Games, Some Rights Reserved</Copyright>
 	<PackageIcon>PKMNICON_V2.png</PackageIcon>
 	<PackageIconUrl />
+	<RepositoryUrl>https://github.com/The-Architect01/Pokedex</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
